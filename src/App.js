@@ -2,6 +2,7 @@ import React from 'react';
 import {Navbar, NavbarBrand} from "reactstrap";
 import './App.css';
 import Menu from "./components/MenuComponent";
+import SampleMenu from "./components/PracticeComponent";
 
 function App() {
   return (
